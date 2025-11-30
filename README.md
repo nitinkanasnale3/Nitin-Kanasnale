@@ -8,8 +8,6 @@
 
 * 🎓 MCA aspirant preparing for TS ICET / PGCET and deep into Full Stack Development.
 
-* 💻 Building a Jarvis-like voice assistant (Java + CMU Sphinx) — features: wake word, ChatGPT integration, GUI, memory module, WhatsApp alerts.
-
 * 📚 Currently following Sigma8 curriculum and a 2-year career domination plan combining AI, Web, and DevOps skills.
 
 * 🎥 Passionate about videography & photography for peace and creativity.
@@ -46,7 +44,7 @@
 
 ## How I Learn
 
-* Daily focused practice: one topic per day for PGCET & Full Stack.
+* Daily focused practice: one topic per day of Full Stack.
 * Step-by-step guided lessons and one-shot video references.
 * Building while learning: every concept immediately used in a project.
 
@@ -59,9 +57,9 @@
 
 ## Want to see my progress?
 
-* Check my pinned repos for Jarvis, Sigma8 projects, and small web apps.
+* Check my pinned repos for Sigma8 projects, and small web apps.
 * I update this README as I finish milestones — follow for progress updates.
 
 ---
 
-*Made with ❤️ by  (your Bhairava's teacher).*
+*Made with ❤️ by me.
